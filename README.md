@@ -46,9 +46,9 @@ This project is **open-source** and available under the **MIT License**.
 Want to contribute? Feel free to fork the repository and submit a pull request!  
 
 ## 📞 Contact  
-✉️ Email: **girivennapusa8@gmail.com**  
-🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)  
-🔗 GitHub: [Your GitHub Profile](https://github.com/yourusername)  
+✉️ Email: **shivapapani2128@gmail.com**  
+🔗 LinkedIn:https://www.linkedin.com/in/papanisivavenkatasai/
+🔗 GitHub:https://github.com/PapaniSiva  
 ```
 
 ### **Why This README is Effective?**  
